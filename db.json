@@ -88,7 +88,7 @@
       "isPublic": true,
       "title": "W3School CSS Tutorial",
       "intro": "CSS 是用來設計 HTML 文檔樣式的語言，w3schools提供基礎到進階的CSS語法及範例",
-      "imgUrl": "./assets/images/resources_cover/cover_css.jpg",
+      "imgUrl": "cover_css.jpg",
       "url": "https://www.w3schools.com/css/",
       "IsSafeUrl": true,
       "type": "第三方技術網站",
